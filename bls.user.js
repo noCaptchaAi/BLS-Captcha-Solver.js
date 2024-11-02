@@ -5,7 +5,7 @@
 // @author       noCapcthaAi.com
 // @description  BLS Captcha Solver by noCapcthaAi.com
 // @icon         https://vitejs.dev/logo.svg
-// @website      https://noCapcthaAi.com
+// @website      https://noCaptchaAi.com
 // @downloadURL  https://raw.githubusercontent.com/noCaptchaAi/BLS-Captcha-Solver.js/refs/heads/main/bls.user.js
 // @updateURL    https://raw.githubusercontent.com/noCaptchaAi/BLS-Captcha-Solver.js/refs/heads/main/bls.user.js
 // @match        https://*/*
